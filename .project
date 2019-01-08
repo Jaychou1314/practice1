@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>my</name>
+=======
+	<name>practice1</name>
+>>>>>>> 7d4fb61e0a62970b93da3c28bedc8ccc4c9a3dc4
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +20,11 @@
 	</natures>
 	<filteredResources>
 		<filter>
+<<<<<<< HEAD
 			<id>1546950313306</id>
+=======
+			<id>1546950195824</id>
+>>>>>>> 7d4fb61e0a62970b93da3c28bedc8ccc4c9a3dc4
 			<name></name>
 			<type>26</type>
 			<matcher>
